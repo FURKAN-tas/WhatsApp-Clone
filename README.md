@@ -4,5 +4,4 @@
 
 ### Furkan Taş
 
-# WhatsApp-Clone Link
-### https://whatsapp-clone-e040c.web.app
+## [WhatsApp-Clone Link](https://whatsapp-clone-e040c.web.app)
